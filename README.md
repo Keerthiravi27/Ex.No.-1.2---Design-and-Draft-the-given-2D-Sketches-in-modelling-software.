@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="1355" height="988" alt="Screenshot 2025-08-24 112137" src="https://github.com/user-attachments/assets/35cb6fb9-bc8c-48c4-95a9-756aab34b339" />
+![WhatsApp Image 2025-08-30 at 19 14 56_961a0344](https://github.com/user-attachments/assets/f43321a3-8f67-46c1-b26c-b8f3dcc6dfa6)
+
 
  
  ## RESULT
